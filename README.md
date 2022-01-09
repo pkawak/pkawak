@@ -8,6 +8,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Linkedn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -25,3 +26,4 @@ You can click the Preview link to take a look at your changes.
 [youtube]: https://www.youtube.com/channel/UC4aqbGfaeRdL0OrrvLkFLaA
 [twitter]: https://twitter.com/pierrekawak
 [linkedin]: https://www.linkedin.com/in/pierre-kawak/
+[gmail]: b00039424@gmail.com
