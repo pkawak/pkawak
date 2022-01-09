@@ -8,6 +8,9 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UC4aqbGfaeRdL0OrrvLkFLaA]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/pierrekawak]
 [<img align="left" alt="https://www.linkedin.com/in/pierre-kawak/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
 (+1 (801) 762 7999)[:telephone_receiver:]
 - +1 (801) 762 7999
 - pskawak@gmail.com
