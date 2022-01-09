@@ -12,6 +12,7 @@
 <br />
 
 [:telephone_receiver:](+1 (801) 762 7999)
+[GitHub Pages](https://pages.github.com/)
 - +1 (801) 762 7999
 - pskawak@gmail.com
 
