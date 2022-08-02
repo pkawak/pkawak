@@ -1,5 +1,5 @@
 ## adding this for gmpy2
-#export PYTHONPATH="${PYTHONPATH}:/home/pkawak/local/lib/python3.7/site-packages/"
+#export PYTHONPATH="${PYTHONPATH}:${HOME}/local/lib/python3.7/site-packages/"
 #export PATH="$HOME/.local/bin:$PATH"
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
