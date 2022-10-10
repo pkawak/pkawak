@@ -1,8 +1,8 @@
 ### Hi there, I'm Pierre
 
-### I'm a PhD hopeful, scientist, engineer and teacher 
+### I'm a postdoctoral scientist, engineer and teacher 
 - 👀 I’m interested in polymer physics and molecular simulation
-- 🌱 I’m currently a PhD candidate in Chemical Engineering @ BYU
+- 🌱 I’m currently a postdoc in Chemical Engineering @ University of South Florida
 
 ### Connect with me 📫
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
