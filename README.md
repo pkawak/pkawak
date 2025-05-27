@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://linktr.ee/pkawak
 [youtube]: https://www.youtube.com/channel/UC4aqbGfaeRdL0OrrvLkFLaA
-[twitter]: https://twitter.com/pierrekawak
+[twitter]: https://twitter.com/polymerpolymath
 [linkedin]: https://www.linkedin.com/in/pierre-kawak/
 
 ### Languages and Tools:
