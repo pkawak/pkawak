@@ -1,23 +1,17 @@
 # Hi, I’m Pierre 👋
 
-Computational polymer physicist | Postdoctoral researcher @ USF (Chemical Engineering)  
-I build simulation tools and theory to connect nanoscale polymer phenomena to macroscopic properties.
+Computational scientist | Polymer physics | C++/CUDA/Python simulation software
 
-- 🔬 Interests: polymer physics, molecular simulation (MD/MC), elastomeric nanocomposites, sequence–Tg relationships
-- 🧰 Tooling: C/C++, Python, Bash, CUDA, LAMMPS, custom MD/MC codes, SLURM/HPC
-- 📍 Tampa, FL • Open to collaborations and interesting problems
+I develop simulations and scientific software to understand how molecular interactions shape the properties of polymers. My work combines molecular dynamics, Monte Carlo methods, and theory to study polymer structure, dynamics, and mechanical reinforcement.
 
-## What I’m working on
-- Toughness in elastomeric nanocomposites via polymer–filler interplay  
-- Copolymer sequence effects on glass transition (simulation–experiment bridges)  
-- Cleaner, reproducible analysis pipelines for large-scale simulations
+I hold a PhD in Chemical Engineering from Brigham Young University. My software work includes AMDAT, a fast, scalable molecular dynamics analysis code ([software preprint](https://arxiv.org/abs/2602.05865)); MCPC, a GPU-accelerated C++/CUDA simulation code; and FESP, a filled elastomer simulation package. I use virtual experiments to test physical hypotheses and connect molecular behavior to measurable material properties.
 
-## Highlights
-- ⚙️ Led lab-wide migration of legacy sim/analysis code to GitHub with modularization & CI
-- 🧑‍🏫 Mentor & community builder (ECR in Polymer Physics; USF Postdoc Scholars Association)
-- 🗣️ Talks: American Chemical Society, American Physical Society, American Institute of Chemical Engineers, American Society for Engineering Education, Institute of Physics
+- Tools: C++, CUDA, Python, Bash, LAMMPS, and high-performance computing.
+- Open to opportunities in computational science, scientific software, and data science.
+- Happy to connect about research collaborations and interesting problems.
 
 ## Get in touch
+[![CV](https://img.shields.io/badge/CV-Academic-blue)](https://pkawak.github.io/Pierre_Academic_CV/)
 [![Website](https://img.shields.io/badge/Website-linktr.ee/pkawak-blue)](https://linktr.ee/pkawak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre%20Kawak-0A66C2)](https://www.linkedin.com/in/pierre-kawak/)
 [![Twitter / X](https://img.shields.io/badge/Twitter-@polymerpolymath-1DA1F2)](https://twitter.com/polymerpolymath)
@@ -40,4 +34,3 @@ I build simulation tools and theory to connect nanoscale polymer phenomena to ma
 <!-- Optional: GitHub stats or pinned cards. Keep it minimal to avoid noise.
 [![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkawak&show_icons=true)]()
 -->
-
